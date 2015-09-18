@@ -11,15 +11,11 @@ This is the repository of the Choreographic Maps project, started at the [5th Ch
 
 ### Optical Flow ###
 
-Convert videos into *optical flow recordings*, where vertical and horizontal motion are encoded in color components of the respective pixels.
+Convert videos into *optical flow recordings*, where vertical and horizontal motion are encoded in color components of the respective pixels. (Here: *R* and *G* components)
 
-![](colorflow-anim.gif)
+![](colorflow-anim-2.gif)
 
-This is a optical flow recording of *One Flat Thing reproduced*.  When Tables are pushed on to the stage, the vertical motion of their outlines results into high amounts of green...
-
-**Note:**  
-Seems like there's still some normalization issues.  
-The background should be black.
+This is a optical flow recording of *One Flat Thing reproduced*.  When Tables are pushed on to the stage, the vertical motion of their outlines results in color changes.
 
 ## License ##
 
