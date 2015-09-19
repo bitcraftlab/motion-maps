@@ -22,14 +22,13 @@ void drawProgressBar() {
     rect(gap + x1, 0, x2 - x1, barHeight);
     
     strokeWeight(2);
-    stroke(100, 0, 0, 100);
-    marker(inMarker);
+    stroke(100, 0, 0);
+    marker(tmpMarker);
     marker(timeMap(mouseX));
   
   }
-
   
-  stroke(120);
+  stroke(0, 100);
   strokeWeight(2);
   marker(inMarker);
   marker(outMarker);
