@@ -7,6 +7,16 @@ This is the repository of the Choreographic Maps project, started at the [5th Ch
 * **MotionGram Explorer**: Using MotionGrams as a means to explore motion in recordings of dance
 * **MotionMap Explorer**: Folding the timeline of dance recording(s) on a 2D Self-Orgnanizing Map
 
+## MotionGram Explorer ##
+
+First version of the MotionGram Explorer, visualizing the trajectories of dancers as motiongrams.
+
+![](data-motiongram.jpg) 
+
+## MotionMap Explorer ##
+
+Coming soon ...
+
 ## Code ##
 
 ### Optical Flow ###
@@ -19,7 +29,7 @@ This is a optical flow recording of *One Flat Thing reproduced*.  When Tables ar
 
 ## License ##
 
-*Do What the Fuck you Want To Public License.*
+**D**o **W**hat **T**he **F**uck you want to **P**ublic **L**icense.
 
 ![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WTFPL_badge.svg/151px-WTFPL_badge.svg.png)
 
